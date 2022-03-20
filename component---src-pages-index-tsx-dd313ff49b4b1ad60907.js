@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksjxx=self.webpackChunksjxx||[]).push([[691],{2494:function(e,t,l){l.r(t);var n=l(7294),u=l(8546),c=l(5328),r=l(7554);t.default=function(){return n.createElement(r.Z,null,n.createElement("title",null,"总目录"),n.createElement("h1",null,"三级修学课程目录"),n.createElement(c.Z,null),n.createElement(u.Z,{top:!0,anchors:["同喜班","同修班一阶段《道次第略论》","同修班二阶段《百法明门论》","同修班三阶段《入菩萨行论》"]}))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-dd313ff49b4b1ad60907.js.map
